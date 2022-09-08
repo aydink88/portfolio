@@ -1,0 +1,11 @@
+---
+import projectsData from "../../projectsData.json";
+
+export function getStaticPaths() {
+  return projectsData.map((p) => ({ params: { slug: p.slug }, props: p }));
+}
+
+const { title, slug, img, tags } = Astro.props;
+---
+
+<div>{title}</div>

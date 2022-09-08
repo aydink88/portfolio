@@ -1,0 +1,20 @@
+---
+import MainHead from "../components/MainHead.astro";
+import Footer from "../components/Footer/index.astro";
+import Nav from "../components/Nav/index.astro";
+
+const { title = "Aydın Bulut" } = Astro.props;
+---
+
+<html lang="tr">
+  <head>
+    <MainHead title={title} />
+  </head>
+  <body>
+    <Nav />
+    <div class="wrapper mb4">
+      <slot />
+    </div>
+    <Footer />
+  </body>
+</html>
