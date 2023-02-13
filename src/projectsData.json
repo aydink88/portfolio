@@ -3,54 +3,66 @@
     "title": "Tweeter",
     "slug": "tweeter",
     "img": "/assets/tweeter.png",
-    "tags": ["react", "typeorm", "nestjs", "tailwindcss","daisyui"]
+    "tags": ["react", "typescript", "typeorm", "nestjs", "tailwindcss", "daisyui", "vue"]
   },
   {
     "title": "Catwiki",
     "slug": "catwiki",
     "img": "/assets/catwiki.png",
-    "tags": ["react", "mongodb", "express"]
+    "tags": ["react", "mongodb", "express", "sass", "remix-run"]
   },
   {
-    "title": "Tw-vue",
-    "slug": "tweeter2",
+    "title": "Visitor Book",
+    "slug": "visitor-book",
     "img": "/assets/tweeter.png",
-    "tags": ["vue", "typeorm", "nestjs"]
+    "tags": ["react", "bootstrap", "express", "mongodb"]
   },
   {
-    "title": "Tw-svelte",
-    "slug": "tweeter3",
+    "title": "Portfolio",
+    "slug": "portfolio",
     "img": "/assets/tweeter.png",
-    "tags": ["svelte", "typeorm", "nestjs"]
+    "tags": ["svelte", "astro", "sass"]
   },
   {
-    "title": "Tweeter",
-    "slug": "tweeter4",
+    "title": "Recipies",
+    "slug": "recipies",
     "img": "/assets/tweeter.png",
-    "tags": ["react", "typeorm", "nestjs"]
+    "tags": ["vue", "sass", "typescript"]
   },
   {
-    "title": "Tweeter",
-    "slug": "tweeter5",
+    "title": "TVCountdown",
+    "slug": "tvcountdown",
     "img": "/assets/tweeter.png",
-    "tags": ["react", "typeorm", "nestjs"]
+    "tags": ["react", "typescript", "sass"]
   },
   {
-    "title": "Tweeter",
-    "slug": "tweeter6",
+    "title": "Social Media",
+    "slug": "social-media",
     "img": "/assets/catwiki.png",
-    "tags": ["react", "typeorm", "nestjs"]
+    "tags": ["react", "bootstrap", "express", "mongodb"]
   },
   {
-    "title": "Tweeter",
-    "slug": "tweeter7",
+    "title": "Shoppingify",
+    "slug": "shoppingify",
     "img": "/assets/tweeter.png",
-    "tags": ["react", "typeorm", "nestjs"]
+    "tags": ["react", "bootstrap", "typescript", "express", "mongodb"]
   },
   {
-    "title": "Tweeter",
-    "slug": "tweeter8",
+    "title": "InstaClone",
+    "slug": "instaclone",
     "img": "/assets/tweeter.png",
-    "tags": ["react", "typeorm", "nestjs"]
+    "tags": ["react", "bootstrap", "express", "mongodb"]
+  },
+  {
+    "title": "Hacker News",
+    "slug": "hacker-news",
+    "img": "/assets/tweeter.png",
+    "tags": ["react", "typescript", "express", "mongodb"]
+  },
+  {
+    "title": "gag9",
+    "slug": "gag9",
+    "img": "/assets/tweeter.png",
+    "tags": ["react", "typescript", "redux", "sass", "express", "sqlite", "knex"]
   }
 ]
